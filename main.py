@@ -1,4 +1,4 @@
-# Solve reCaptcha V2 with Selenium Python Using 2captcha
+# Solve reCaptcha V2 with Selenium Python Using 2captcha (rucaptcha.com)
 
 from selenium import webdriver
 import requests, time
